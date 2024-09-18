@@ -1,0 +1,39 @@
+Prefixes.ComicallyLarge.DisplayName: Comically Large
+
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		Enabled: {
+			Label: Enabled
+			Tooltip: ""
+		}
+
+		Headers.Modifiers: Modifiers
+
+		RollChance: {
+			Label: Roll Chance
+			Tooltip: ""
+		}
+
+		Size: {
+			Label: Size
+			Tooltip: ""
+		}
+
+		UseTime: {
+			Label: Use Time
+			Tooltip: ""
+		}
+
+		Knockback: {
+			Label: Knockback
+			Tooltip: ""
+		}
+
+		Value: {
+			Label: Value
+			Tooltip: ""
+		}
+	}
+}

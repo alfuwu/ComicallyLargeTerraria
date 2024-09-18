@@ -1,0 +1,4 @@
+displayName = Comically Large Terraria
+author = me duh
+version = 1.1.1
+includeSource = true

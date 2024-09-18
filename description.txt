@@ -1,0 +1,10 @@
+Are your muscles too big for Terraria's tiny little baby items? Do you have fever dreams of giant, sexy Draxes mowing down stone?
+Then this mod will satisfy all of your worldly needs!
+
+(By installing this mod, the client agrees that Comically Large Co. is not responsible for any death nor injury caused by wielding a Comically Large item)
+
+This mod was created 'cause I saw someone with a kinda big pickaxe that one time. And I felt like I had to have a bigger pickaxe.
+
+Content: Adds customizable (via config) modifier 'Comically Large' that can be applied to most items that can have a modifier, which increases an item's size by comical amounts.
+
+All source code is available via extraction through tModLoader.
